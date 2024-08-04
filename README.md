@@ -30,8 +30,10 @@ Bash
 
 The project structure should include a Python script implementing the OCR and NER functionality. Refer to the script's documentation within the code for specific execution instructions. This might involve providing paths to image files or datasets containing drug information.
 
-Example
+##Example
 The script is expected to output the identified drug mentions along with their corresponding classifications (e.g., brand names, generic names). Here's a fictional illustration:
+
+https://github.com/Swapnil-M1D62Y402/Medicine-Extractor-and-Processor/blob/main/Output-1.png
 
 
 
