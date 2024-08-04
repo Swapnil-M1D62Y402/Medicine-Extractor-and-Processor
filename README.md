@@ -44,14 +44,14 @@ Some of the user prompts used to improve the extraction process are as of follow
 
 https://github.com/Swapnil-M1D62Y402/Medicine-Extractor-and-Processor/blob/main/prompts.txt
 
-//prompt-1 - adds all fields to everything
-convert the image to text and format it into json 
+*prompt-1* - converts text to json format and label the fields
+>convert the image to text and format it into json 
 
-//prompt-2 - adds all fields to everything
-convert the image to text and format it into json and beautify it.  
+*prompt-2* - converts text to json format and beautify it
+>convert the image to text and format it into json and beautify it.  
 
-//prompt-3 - separates the medicine from other fields
-convert the image to text to json format and beautify it. If possible then extract the medicine names from it and name the key value medicine.
+*prompt-3* - converts text to json format and beautify it and separates the medicine from other fields
+>convert the image to text to json format and beautify it. If possible then extract the medicine names from it and name the key value medicine.
 
 This project serves as a starting point for exploring the potential of Gemini and spaCy for drug NER tasks. You can extend this work by:
 
