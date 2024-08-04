@@ -1,0 +1,155 @@
+invoice-1
+
+{"Patient Id:": "16507",
+ "Ht:": "180",
+ "Weight:": "72",
+ "RR:": "66",
+ "Temp:": "90",
+ "Current Diagnosis": "Asthma - COPD Overlap Partially Controlled", "Known Diagnosis": "Acute febrile illness - URTI - (J06.9) Partially Controlled",
+ "SALBAIR TRANSHALER INHALER": "Levosalbutamol 50mcg",
+ "MOXCLAV 625 TABLET": "Amoxicillin 500mg + Clavulanic Acid 125mg", "MAXITHRAL 500 TABLET": "Azithromycin 500mg",
+ "MONTEK LC TABLET": "MONTELUKAST 10mg + LEVOCETRIZINE 5mg",
+ "SOMPRAZ 20 TABLET": "Esomeprazole 20mg",
+ "Next Review Date (மறுபரிசோதனை நாள்):": "Mon, 23 Apr 2018 05:30 PM", 
+"For Appointment call:": "+91 98946 22998"}
+
+{
+  "Patient Id:": "16507",
+  "Ht:": "180",
+  "Weight:": "72",
+  "RR:": "66",
+  "Temp:": "90",
+  "Current Diagnosis": "Asthma - COPD Overlap Partially Controlled",
+  "Known Diagnosis": "Acute febrile illness - URTI - (J06.9) Partially Controlled",
+  "SALBAIR TRANSHALER INHALER": "Levosalbutamol 50mcg",
+  "MOXCLAV 625 TABLET": "Amoxicillin 500mg + Clavulanic Acid 125mg",
+  "MAXITHRAL 500 TABLET": "Azithromycin 500mg",
+  "MONTEK LC TABLET": "MONTELUKAST 10mg + LEVOCETRIZINE 5mg",
+  "SOMPRAZ 20 TABLET": "Esomeprazole 20mg",
+  "Next Review Date (மறுபரிசோதனை நாள்):": "Mon, 23 Apr 2018 05:30 PM",
+  "For Appointment call:": "+91 98946 22998"
+}
+
+invoice-2
+
+{"FOR": "(Full name, address, & phone number) (If under 12, give age)", "John R. Doe, HM3, USN": "John R. Doe, HM3, USN", "U.S.S. Neverforgotten": "U.S.S. Neverforgotten", "(DD 178)": "(DD 178)", "MEDICAL FACILITY": "MEDICAL FACILITY", "U.S.S. Neverforgotten": "U.S.S. Neverforgotten", "DATE": "23 Jan 99", "R": "R", "(Superscription)": "(Superscription)", "(Inscription)": "(Inscription)", "Tr Belladonna": "Tr Belladonna", "Amphogel q.s.d": "Amphogel q.s.d", "gm or ml.": "gm or ml.", "15": "15", "ml": "ml", "120": "120", "(Subscription)": "(Subscription)", "M & FT Solution": "M & FT Solution", "(Signa)": "(Signa)", "Sig: 5mL tid a.c.": "Sig: 5mL tid a.c.", "MFG:": "MFG:", "Wyeth": "Wyeth", "LOT NO:": "LOT NO:", "P39K106": "P39K106", "EXP DATE:": "EXP DATE:", "12/02": "12/02", "FILLED BY:": "FILLED BY:", "KMT": "KMT", "Jack R. Frost": "Jack R. Frost", "LCDR. MD. USNR": "LCDR. MD. USNR", "SIGNATURE RANK AND DEGREE": "SIGNATURE RANK AND DEGREE", "R NUMBER": "R NUMBER", "10072": "10072", "EDITION OF 1 JAN 60 MAY BE USED FOR": "EDITION OF 1 JAN 60 MAY BE USED FOR", "S/N 0102-LF-012-6201": "S/N 0102-LF-012-6201"}
+
+beautify- 
+{
+  "15": "15",
+  "120": "120",
+  "10072": "10072",
+  "FOR": "(Full name, address, & phone number) (If under 12, give age)",
+  "John R. Doe, HM3, USN": "John R. Doe, HM3, USN",
+  "U.S.S. Neverforgotten": "U.S.S. Neverforgotten",
+  "(DD 178)": "(DD 178)",
+  "MEDICAL FACILITY": "MEDICAL FACILITY",
+  "DATE": "23 Jan 99",
+  "R": "R",
+  "(Superscription)": "(Superscription)",
+  "(Inscription)": "(Inscription)",
+  "Tr Belladonna": "Tr Belladonna",
+  "Amphogel q.s.d": "Amphogel q.s.d",
+  "gm or ml.": "gm or ml.",
+  "ml": "ml",
+  "(Subscription)": "(Subscription)",
+  "M & FT Solution": "M & FT Solution",
+  "(Signa)": "(Signa)",
+  "Sig: 5mL tid a.c.": "Sig: 5mL tid a.c.",
+  "MFG:": "MFG:",
+  "Wyeth": "Wyeth",
+  "LOT NO:": "LOT NO:",
+  "P39K106": "P39K106",
+  "EXP DATE:": "EXP DATE:",
+  "12/02": "12/02",
+  "FILLED BY:": "FILLED BY:",
+  "KMT": "KMT",
+  "Jack R. Frost": "Jack R. Frost",
+  "LCDR. MD. USNR": "LCDR. MD. USNR",
+  "SIGNATURE RANK AND DEGREE": "SIGNATURE RANK AND DEGREE",
+  "R NUMBER": "R NUMBER",
+  "EDITION OF 1 JAN 60 MAY BE USED FOR": "EDITION OF 1 JAN 60 MAY BE USED FOR",
+  "S/N 0102-LF-012-6201": "S/N 0102-LF-012-6201"
+}
+
+
+invoice-3 
+
+{
+  "Name:": "Armando Ceguia",
+  "Address:": "West Rimbo, Makati City",
+  "Age:": "29",
+  "Sex:": "M",
+  "Date:": "12-03-90",
+  "Rx": "(Hmox)\nAmoxicillin 500mg Cap#21\nSig: 1 cap 3x a day for\nseven days.",
+  "Physician's Sig": "Jula Cruz",
+  "Lic No.": "123457",
+  "PTR No.": "1234567",
+  "S2 No.": ""
+}
+
+invoice-4
+
+{
+  "Clinic Hours:": "MWF: 13:00 - 18:00",
+  "TTH:": "9:00 - 15:00",
+  "Patient's name:": "Antim Mukherjee",
+  "Address:": "918 Baker's St. Franklinton OREGON",
+  "Age:": "15",
+  "Date:": "24/11/2019",
+  "Medicine:": "Pivan",
+  "Estimated": "Atorvastatin",
+  "Rx": "Rx",
+  "Signature": "Lathren"
+}
+
+
+
+{
+  "patient_name": "Philip John",
+  "patient_id": "16507",
+  "patient_age": "42",
+  "patient_gender": "M",
+  "patient_height": "180",
+  "patient_weight": "72",
+  "patient_rr": "66",
+  "patient_temp": "90",
+  "current_diagnosis": "Asthma - COPD Overlap Partially Controlled",
+  "known_diagnosis": "Acute febrile illness - URTI - (J06.9) Partially Controlled",
+  "prescription_id": "4195-10",
+  "prescription_date": "23 Mar 2018",
+  "medications": [
+    {
+      "name": "SALBAIR TRANSHALER INHALER",
+      "dosage": "50mcg",
+      "quantity": "1",
+      "instructions": "STAT"
+    },
+    {
+      "name": "MOXCLAV 625 TABLET",
+      "dosage": "500mg + Clavulanic Acid 125mg",
+      "quantity": "15",
+      "instructions": "5 நாள்"
+    },
+    {
+      "name": "MAXITHRAL 500 TABLET",
+      "dosage": "500mg",
+      "quantity": "3",
+      "instructions": "3 நாள்"
+    },
+    {
+      "name": "MONTEK LC TABLET",
+      "dosage": "10mg + LEVOCETRIZINE 5mg",
+      "quantity": "5",
+      "instructions": "5 நாள்"
+    },
+    {
+      "name": "SOMPRAZ 20 TABLET",
+      "dosage": "20mg",
+      "quantity": "10",
+      "instructions": "5 நாள்"
+    }
+  ],
+  "next_review_date": "Mon, 23 Apr 2018 05:30 PM",
+  "appointment_phone": "+91 98946 22998"
+}

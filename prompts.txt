@@ -1,0 +1,5 @@
+//prompt-1 - adds all fields to everything
+convert the image to text and format it into json - user prompt
+
+//prompt-2 - separates the medicine from other fields
+convert the image to text to json format and beautify it. If possible then extract the medicine names from it and name the key value medicine.
